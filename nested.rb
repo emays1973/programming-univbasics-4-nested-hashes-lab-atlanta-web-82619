@@ -82,7 +82,7 @@ def adding_matz
         }
      }
 
-   if programmer_hash[:yukihiro_matsumoto] = {
+   if programmer_hash[:yukihiro_matsumoto][:known_for]
         :known_for => "Ruby",
         :languages => ["LISP", "C"]
     }
